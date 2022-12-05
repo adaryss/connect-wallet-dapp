@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Get your own api key from [https://walletconnect.com/](https://walletconnect.com/) and create `env.local` in the root with your api key as NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID 
+
+Run the development server:
 
 ```bash
 npm run dev
